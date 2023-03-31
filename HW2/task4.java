@@ -1,10 +1,9 @@
-// //Task_4.* К калькулятору из предыдущего дз добавить логирование.
-
+//Task_4.* К калькулятору из предыдущего дз добавить логирование.
 package HW2;
 
 import java.util.Scanner;
 
-public class task_4 {
+public class task4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
