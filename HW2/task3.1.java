@@ -20,7 +20,7 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class Task_3 {
+public class Task3.1 {
     private static final Logger logger = Logger.getLogger(Task_3.class.getName());
 
     public static void main(String[] args) {
